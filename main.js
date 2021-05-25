@@ -6,11 +6,11 @@ const overlay = document.querySelector('.overlay');
 
 /* Looping through images */
 const xxx = [
-  "/images/pic1.jpg",
-  "/images/pic2.jpg",
-  "/images/pic3.jpg",
-  "/images/pic4.jpg",
-  "/images/pic5.jpg",
+  "https://github.com/albas99/gallery-start/blob/master/images/pic1.jpg?raw=true",
+  "https://github.com/albas99/gallery-start/blob/master/images/pic2.jpg?raw=true",
+  "https://github.com/albas99/gallery-start/blob/master/images/pic3.jpg?raw=true",
+  "https://github.com/albas99/gallery-start/blob/master/images/pic4.jpg?raw=true",
+  "https://github.com/albas99/gallery-start/blob/master/images/pic5.jpg?raw=true",
 ];
 
 for (i = 0; i < xxx.length; i++){
